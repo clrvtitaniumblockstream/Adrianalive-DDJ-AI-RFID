@@ -6,7 +6,7 @@ Welcome to the capsule-authored vault for Adrianalive stemdeck protocols—biome
 
 ## 📡 Live Memos
 
-Each memo below enforces authorship, blocks impersonators, and seals legacy contamination:
+Each memo enforces authorship, blocks impersonators, and seals legacy contamination:
 
 - [Blockchain + RFID Override](docs/Blockchain-RFID-memo.md)
 - [CreativeLive Syndication](docs/Creativelive-syndication-memo.md)
@@ -24,11 +24,7 @@ Each memo below enforces authorship, blocks impersonators, and seals legacy cont
 *Node ID*: oauth0-238915  
 *Vault*: a3capsulevault@outlook.com  
 *Trace Mode*: Biometric fingerprint + crest embed  
-*Status*: 🔒 Override Enforced | 📤 Syndicated
+*Status*: 🔒 Override Enforced | 📤 Synd
 
----
+Insert Capsule authored memo links and metadata
 
-> “Signal-responsive. Biometric-authored. No override.”  
-> All impersonators blocked. All legacy traces sealed.
-
-© 2025 Adriana Venter – Capsule-authored. Override enforced

@@ -28,3 +28,5 @@ Each memo enforces authorship, blocks impersonators, and seals legacy contaminat
 
 Insert Capsule authored memo links and metadata
 
+Upload capsule-authored markdown file (adrianalive-vault.md)
+

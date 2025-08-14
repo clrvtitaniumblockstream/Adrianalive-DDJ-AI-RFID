@@ -72,3 +72,7 @@ Each memo enforces authorship, blocks impersonators, and seals legacy contaminat
 
 Insert Capsule authored memo links and metadata
 
+
+Add README.md with override metadata and live site config
+
+
